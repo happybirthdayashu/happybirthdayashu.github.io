@@ -1,0 +1,1 @@
+alert("Enable desktop mode if you are see this on your mobile phone!");
