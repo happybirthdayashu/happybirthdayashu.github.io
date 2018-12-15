@@ -1,1 +1,1 @@
-alert("Enable desktop mode if you are see this on your mobile phone!");
+alert("Enable desktop mode if you are seeing this on your mobile phone!");
